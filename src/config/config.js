@@ -1,5 +1,5 @@
 const config = {
-  baseurl: 'https://hianime.do',
+  baseurl: 'https://hianime.to',
   baseurl_v2: 'https://kaido.to',
   providers: 'https://megacloud.club',
 
